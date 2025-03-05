@@ -37,7 +37,7 @@ We're open to collaborations on:
 
 ## 📬 Contact & Support
 
-📧 **Reach us at:** [contact@torrent-hub.io](mailto:contact@torrent-hub.io)  
+📧 **Reach us at:** [contact@torrenthub.club](mailto:contact@torrenthub.club)  
 🐞 **Report issues:** [Issue Tracker](https://github.com/Torrent-Hub/Torrent-Hub/issues)
 
 ---
@@ -50,4 +50,4 @@ We're open to collaborations on:
 ---
 
 [![GitHub followers](https://img.shields.io/github/followers/Torrent-Hub?style=social)](https://github.com/Torrent-Hub)
-[![Telegram Community](https://img.shields.io/badge/Telegram-Channel-blue?logo=telegram)](https://t.me/torrent_hub_community)
+[![Telegram Community](https://img.shields.io/badge/Telegram-Channel-blue?logo=telegram)](https://t.me/TorrentHubClub)
